@@ -54,6 +54,8 @@ One of my first starter projects which allowed me to showcase my coding knowledg
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/osaze-ai)
+<a href="https://www.frontendmentor.io/profile/osaze-ai">
+      Osaze-ai Frontend Mentor
+    </a>
 
 
