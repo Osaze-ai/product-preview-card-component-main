@@ -1,19 +1,20 @@
-<img src="raw project preview link"></img>
+
+<img width="1280" alt="Screenshot 2023-07-03 at 12 35 49" src="https://github.com/Osaze-ai/product-preview-card-component-main/assets/130580788/ed3b2f05-0cbf-4d71-b164-462c397886f3">
 
 <h1 align ="center">Product preview card component
 </h1>
 
 <div align="center">
   <h3>
-    <a href="raw project preview link" color="white">
+    <a href="https://osaze-ai.github.io/product-preview-card-component-main/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="link my solution answer from frontend website">
+    <a href="https://www.frontendmentor.io/solutions/productpreviewcardcomponentmain-bbHibNxM7Z">
       Solution
     </a>
    <span> | </span>
-    <a href="link product preview card challenge from frontend here">
+    <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa">
       Challenge
     </a>
   </h3>
@@ -26,7 +27,6 @@
 <br>
 
 
-
 ## About The Project
 
 <p>This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects.
@@ -37,14 +37,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 1. View the optimal layout depending on their device's screen size.
 2. See hover and focus states for interactive elements.
 <br>
-
-
-
-
-### Links
-
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
 
 ### Built with
 
